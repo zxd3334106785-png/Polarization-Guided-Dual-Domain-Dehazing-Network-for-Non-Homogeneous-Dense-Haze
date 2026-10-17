@@ -1,0 +1,12 @@
+# Install a CUDA-compatible torch/torchvision pair separately, then this file.
+torch
+torchvision
+numpy
+Pillow
+timm
+kornia
+tqdm
+ninja
+setuptools
+wheel
+packaging
