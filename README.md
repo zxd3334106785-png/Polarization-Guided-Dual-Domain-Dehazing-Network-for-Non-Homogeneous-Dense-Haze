@@ -20,6 +20,15 @@ data/infer/<scene>/youwu/{0,45,90}/001.png
 
 Each brace denotes three separate angle folders. Use matching filenames and image sizes, read as 8-bit grayscale. Ground truth is required for training/validation and optional for inference. Keep splits separate by scene.
 
+## Pretrained Weights
+
+The pretrained model weights are available from the following links:
+
+- **Google Drive:** [Download](https://drive.google.com/drive/folders/15_FeB-wIvzzrLTVqY89VdafoNfcxkhNm?usp=sharing)
+- **Baidu Netdisk:** [Download](https://pan.baidu.com/s/1xN8VtJ3Apu1GaLDO_mqi2A?pwd=2pi4) (Access code: `2pi4`)
+
+Download the pretrained weights and place them in the `weights/` directory.
+
 ## Train from Scratch
 
 ```bash
