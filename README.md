@@ -39,5 +39,3 @@ python train.py --weights weights/best_model.pth --train-dir data/train --val-di
 ```bash
 python generate.py --weights weights/best_model.pth --dataset data/infer --output-dir outputs/images
 ```
-
-GPU training/inference and CUDA compilation have not been verified in this packaging environment.
